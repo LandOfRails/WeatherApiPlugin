@@ -1,44 +1,47 @@
 {
 	"coord": {
-		"lon": 13.4105,
-		"lat": 52.5244
+		"lon": 135.315,
+		"lat": 54.7183
 	},
 	"weather": [
 		{
-			"id": 800,
-			"main": "Clear",
-			"description": "clear sky",
-			"icon": "01d"
+			"id": 601,
+			"main": "Snow",
+			"description": "snow",
+			"icon": "13d"
 		}
 	],
 	"base": "stations",
 	"main": {
-		"temp": 292.53,
-		"feels_like": 291.8,
-		"temp_min": 290.51,
-		"temp_max": 294.31,
-		"pressure": 995,
-		"humidity": 49
+		"temp": 273.4,
+		"feels_like": 266.52,
+		"temp_min": 273.4,
+		"temp_max": 273.4,
+		"pressure": 1007,
+		"humidity": 99,
+		"sea_level": 1007,
+		"grnd_level": 1006
 	},
-	"visibility": 10000,
+	"visibility": 66,
 	"wind": {
-		"speed": 10.73,
-		"deg": 213,
-		"gust": 15.2
+		"speed": 9.78,
+		"deg": 63,
+		"gust": 18.76
+	},
+	"snow": {
+		"1h": 3.47
 	},
 	"clouds": {
-		"all": 0
+		"all": 100
 	},
-	"dt": 1621610099,
+	"dt": 1621894478,
 	"sys": {
-		"type": 2,
-		"id": 2011538,
-		"country": "DE",
-		"sunrise": 1621566094,
-		"sunset": 1621623878
+		"country": "RU",
+		"sunrise": 1621881457,
+		"sunset": 1621941240
 	},
-	"timezone": 7200,
-	"id": 2950159,
-	"name": "Berlin",
+	"timezone": 36000,
+	"id": 2025256,
+	"name": "Chumikan",
 	"cod": 200
 }
