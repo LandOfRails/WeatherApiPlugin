@@ -1,0 +1,46 @@
+{
+	"coord": {
+		"lon": -94.1288,
+		"lat": 36.1867
+	},
+	"weather": [
+		{
+			"id": 500,
+			"main": "Rain",
+			"description": "light rain",
+			"icon": "10d"
+		}
+	],
+	"base": "stations",
+	"main": {
+		"temp": 292.63,
+		"feels_like": 293.24,
+		"temp_min": 291.69,
+		"temp_max": 294,
+		"pressure": 1025,
+		"humidity": 100
+	},
+	"visibility": 4828,
+	"wind": {
+		"speed": 2.68,
+		"deg": 150
+	},
+	"rain": {
+		"1h": 0.13
+	},
+	"clouds": {
+		"all": 75
+	},
+	"dt": 1621624200,
+	"sys": {
+		"type": 2,
+		"id": 47685,
+		"country": "US",
+		"sunrise": 1621595159,
+		"sunset": 1621646435
+	},
+	"timezone": -18000,
+	"id": 4132093,
+	"name": "Springdale",
+	"cod": 200
+}
